@@ -1,0 +1,16 @@
+﻿.LoginForm {
+    margin-top: 2vw;
+    width: fit-content;
+    display: grid;
+    margin-bottom: 5vw;
+}
+
+.LogoImg {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 300px;
+}
+
+.Logodiv {
+    align-self: center;
+}
